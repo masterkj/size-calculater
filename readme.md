@@ -6,3 +6,7 @@ in order to containerize the project, you should run
 ```
 docker-compose up
 ```
+
+the box-sizeing service endpoints: 
+- path: '/', Method: 'post', calculate box size
+- path: 'api-docs', Method: 'get', swagger docs
