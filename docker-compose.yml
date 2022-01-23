@@ -1,0 +1,8 @@
+version: '2'
+
+
+services:
+  app:
+    build: ./fine_ccm_app
+    ports:
+      - 49160:8080

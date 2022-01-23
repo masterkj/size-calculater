@@ -1,0 +1,14 @@
+{
+    "name": "fine_ccm_app",
+    "version": "1.0.0",
+    "description": "Fine L.L.C app to calculate ccm",
+    "author": "Omar Khaddam aljamaa khadamaljamyomar@gmail.com",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
